@@ -1,0 +1,25 @@
+{
+    "C_Cpp.commentContinuationPatterns": [
+        "/**"
+    ],
+    "C_Cpp.default.intelliSenseMode": "gcc-arm",
+    "C_Cpp.clang_format_sortIncludes": true,
+    "C_Cpp.default.cStandard": "gnu11",
+    "C_Cpp.default.compilerPath": "/opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc",
+    "C_Cpp.default.includePath": [
+        "/opt/devkitpro/libtonc/include/",
+        "/opt/devkitpro/project/mylib/include/"
+    ],
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.default.enableConfigurationSquiggles": false,
+    "C_Cpp.default.compilerArgs": [
+        "-mthumb-interwork",
+        "-mthumb",
+        "-O2"
+    ],
+    "C_Cpp.suggestSnippets": false,
+    "C_Cpp.vcpkg.enabled": false,
+    "C_Cpp.clang_format_style": "Visual Studio",
+    "C_Cpp.experimentalFeatures": "Enabled",
+    "C_Cpp.loggingLevel": "Debug",
+}
